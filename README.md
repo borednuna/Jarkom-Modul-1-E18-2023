@@ -51,7 +51,7 @@ File pcap untuk soal nomor 5 nampaknya merupakan sebuah rangkaian pesan email de
 ### SCREENSHOT
 ![Soal 5](./soal5.jpeg)
 
-## SOAL 6
+## SOAL 6 (REVISI)
 PESAN TERSEMBUNYI
 
 Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "server SOURCE ADDRESS 7812 is invalid". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut.
