@@ -106,3 +106,6 @@ Dilakukan filtering dengan kueri => telnet contains “Login”. Kemudian dilaku
 ![Soal 10_1](./soal10_1.jpeg)
 
 ![Soal 10_2](./soal10_2.jpeg)
+
+## KESULITAN PENGERJAAN
+Kendala network yang lambat karena menggunakan vpn berakibat kesulitan mengunduh file-file yang diperlukan untuk menyelesaikan soal.
